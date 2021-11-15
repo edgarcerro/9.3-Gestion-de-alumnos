@@ -1,0 +1,46 @@
+{
+  "alumnos": [
+    {
+      "nombre": "macarrones",
+      "apellido": "sfsfsfsefsfsfsfs",
+      "email": "edgaradmin@gmail.com",
+      "fecnac": "2021-11-13",
+      "grupo": 0,
+      "id": 5
+    },
+    {
+      "nombre": "macarrones",
+      "apellido": "dwadawdadwadwadaw",
+      "email": "dwadwadwa@gmail.com",
+      "fecnac": "2021-11-05",
+      "grupo": 0,
+      "id": 6
+    }
+  ],
+  "grupos": [
+    {
+      "id": 1,
+      "cod": "DAW",
+      "nombre": "Diseño de Aplicaciones Web",
+      "familia": "Informática"
+    },
+    {
+      "id": 2,
+      "cod": "DAM",
+      "nombre": "Diseño de Aplicaciones Multiplataforma",
+      "familia": "Informática"
+    },
+    {
+      "id": 3,
+      "cod": "ASIX",
+      "nombre": "Administración de Sistemas Informáticos y Redes",
+      "familia": "Informática"
+    },
+    {
+      "id": 4,
+      "cod": "CAE",
+      "nombre": "Cuidados Auxiliares de Enfermería",
+      "familia": "Sanitaria"
+    }
+  ]
+}
